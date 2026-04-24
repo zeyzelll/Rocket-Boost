@@ -1,6 +1,7 @@
 # Rocket Boost 🚀
-
 A simple 3D arcade game built with Unity.
+To see the core logic I developed for this project, please refer to the following path: Assets/Scripts
+
 
 ## How to Play
 * Navigate the rocket through obstacles.
